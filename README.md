@@ -1,4 +1,4 @@
-https://velog.io/@kimjk3381
+https://readmac.tistory.com/
 
 <!--
 **YunL97/YunL97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

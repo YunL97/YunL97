@@ -1,5 +1,5 @@
-https://readmac.tistory.com/ <br>
-https://www.notion.so/c6df0043b5ab42d5a28f105a0637fc81
+<!-- https://readmac.tistory.com/ <br>
+https://www.notion.so/c6df0043b5ab42d5a28f105a0637fc81 -->
 
 <!--
 **YunL97/YunL97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
